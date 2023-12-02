@@ -124,10 +124,12 @@
 
 .line_2 {
     padding-left: 450px;
+    margin-top: 25px;
 }
 
 .line_2_letter_space {
     padding-left: 20px;
+    margin-top: 25px;
 }
 
 .line_3 {
@@ -190,7 +192,7 @@
     font-weight: 700;
     line-height: normal;
     text-transform: uppercase;
-    padding-left: 90px;
+    padding-left: 50px;
     margin-bottom: 27px;
 }
 
@@ -351,7 +353,7 @@
     margin: 0 auto;
     padding-right: 50px;
     padding-left: 50px;
-    margin-bottom: 90px;
+    margin-bottom: 50px;
 }
 
 .footer__menu {
@@ -383,4 +385,7 @@
     margin: 0;
     list-style: none;
     padding: 0;
+}
+.footer__social-list-item {
+    width: 48px;
 }
